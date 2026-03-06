@@ -1,0 +1,7 @@
+requests
+flask
+pandas
+numpy
+turtle
+prettytable
+colorgram.py
