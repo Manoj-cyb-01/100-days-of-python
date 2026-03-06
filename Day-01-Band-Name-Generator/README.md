@@ -21,15 +21,6 @@ The program then combines these two inputs to create a band name.
 3. It asks for the user's pet name.
 4. It combines both inputs and generates a band name.
 
-Example:
-
-```
-Welcome to the Band Name Generator
-What's the name of the city you grew up in? London
-What's your pet's name? Bruno
-
-Your band name could be: London Bruno Band
-```
 
 ---
 
@@ -42,18 +33,6 @@ Your band name could be: London Bruno Band
 
 ---
 
-## Source Code
-
-```python
-print("Welcome to the Band Name Generator...")
-
-city = input("What's the name of the city you grew up in: ")
-pet_name = input("What's your pet's name: ")
-
-print(city + " " + pet_name + " Band")
-```
-
----
 
 ## Learning Outcome
 
